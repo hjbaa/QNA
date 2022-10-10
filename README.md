@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Проект QnA - платформа формата вопрос/ответ. Изученные темы во время выполнения проекта: 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. PostgreSQL
+2. TDD/BDD
+3. RSpec
+4. ActiveStorage
+5. Amazon S3 cloud
+6. Nested Forms
+7. Polymorphic Associations
